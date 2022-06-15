@@ -91,9 +91,8 @@ ii) Balsamiq cloud tool to design wireframe of pages
 ![TableView](https://user-images.githubusercontent.com/78681091/156497954-d7bad35d-76ec-4d2f-b42c-1158650767bc.jpeg)
 
 ## Contributors
-- [Anshu Kumari](https://github.com/Anshu442-hub)
-- [Yojan Gandha](https://github.com/25YojanGandha)
-- [Shubham Mehar](https://github.com/123shu/CV)
+- [Prince Kala](https://github.com/kprince30)
+- [Sarang Mendhe](https://github.com/sarangmendhe2000)
 
 
 
